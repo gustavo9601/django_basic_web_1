@@ -3,3 +3,4 @@ venv
 __pycache__/
 *.py[cod]
 *$py.class
+webpersonal/webpersonal/db.sqlite3
