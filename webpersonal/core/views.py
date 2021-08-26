@@ -19,5 +19,4 @@ def contact(request: WSGIRequest) -> render:
     return render(request, 'core/contact.html')
 
 
-def portfolio(request: WSGIRequest) -> render:
-    return render(request, 'core/portfolio.html')
+
